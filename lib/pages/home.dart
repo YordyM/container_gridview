@@ -1,5 +1,5 @@
-import 'package:containergridview/pages/container.dart';
-import 'package:containergridview/pages/gridview.dart';
+import 'package:container_girdview/pages/container.dart';
+import 'package:container_girdview/pages/girdview.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
